@@ -1,0 +1,58 @@
+<svg id="erw2ytw67m181" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 602 338" shape-rendering="geometricPrecision" text-rendering="geometricPrecision">
+  <style>
+    <![CDATA[
+      #erw2ytw67m186_to {
+        animation: erw2ytw67m186_to__to 3000ms linear infinite normal forwards;
+      }
+      @keyframes erw2ytw67m186_to__to { 
+        0% {
+          transform: translate(-58.583024px,-105.035405px);
+          animation-timing-function: cubic-bezier(0.695000,0.010000,1,1);
+        } 
+        50% {
+          transform: translate(168.416976px,-105.035405px);
+        } 
+        100% {
+          transform: translate(168.416976px,-105.035405px);
+        } 
+      }
+      #erw2ytw67m187 {
+        animation: erw2ytw67m187_f_o 3000ms linear infinite normal forwards;
+      }
+      @keyframes erw2ytw67m187_f_o { 
+        0% {
+          opacity: 0;
+        } 
+        23.333333% {
+          opacity: 1;
+        } 
+        50% {
+          opacity: 0;
+        } 
+        100% {
+          opacity: 0;
+        } 
+      }
+    ]]>
+  </style>
+  <defs>
+    <linearGradient id="erw2ytw67m186-fill" x1="1" y1="0.500000" x2="0" y2="0.500000" spreadMethod="pad" gradientUnits="objectBoundingBox">
+      <stop id="erw2ytw67m186-fill-0" offset="0%" stop-opacity="0" stop-color="rgba(230,234,233,0)" />
+      <stop id="erw2ytw67m186-fill-1" offset="50%" stop-opacity="1" stop-color="rgba(255,255,255,1)" />
+      <stop id="erw2ytw67m186-fill-2" offset="100%" stop-opacity="0" stop-color="rgba(230,234,233,0)" />
+    </linearGradient>
+  </defs>
+
+  <g id="erw2ytw67m182">
+    <g id="erw2ytw67m183">
+      <g id="erw2ytw67m184" transform="matrix(1 0 0 1 83.02889999999999 39.50000000000000)">
+        <rect id="erw2ytw67m185" width="602" height="338" rx="0" ry="0" transform="matrix(1 0 0 1 -83.02889999999996 -39.49999999999999)" fill="none" fill-rule="evenodd" stroke="none" stroke-width="1" />
+        <g id="erw2ytw67m186_to" transform="translate(-58.583024,-105.035405)">
+          <g id="erw2ytw67m187" opacity="1">
+            <rect id="erw2ytw67m186" width="106.669689" height="390.000136" rx="0" ry="0" transform="rotate(30) skewX(0) skewY(-30) scale(1,1) translate(178.892540,75.673794)" fill="url(#erw2ytw67m186-fill)" stroke="none" stroke-width="1" />
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
